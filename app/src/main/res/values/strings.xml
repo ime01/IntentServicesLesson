@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="apples">Apples</string>
+    <string name="button">GO TO APPLE</string>
+    <string name="go_to_baccon">GO TO BACCON</string>
+    <string name="bacon1">bacon</string>
+    <string name="write_here">write here</string>
+</resources>
